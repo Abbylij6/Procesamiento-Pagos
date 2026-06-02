@@ -1,0 +1,14 @@
+C:\Users\Abby Lij\Desktop\Programacion II\Gimnasio chicos\bin\Debug\net8.0\Gimnasio chicos.exe
+C:\Users\Abby Lij\Desktop\Programacion II\Gimnasio chicos\bin\Debug\net8.0\Gimnasio chicos.deps.json
+C:\Users\Abby Lij\Desktop\Programacion II\Gimnasio chicos\bin\Debug\net8.0\Gimnasio chicos.runtimeconfig.json
+C:\Users\Abby Lij\Desktop\Programacion II\Gimnasio chicos\bin\Debug\net8.0\Gimnasio chicos.dll
+C:\Users\Abby Lij\Desktop\Programacion II\Gimnasio chicos\bin\Debug\net8.0\Gimnasio chicos.pdb
+C:\Users\Abby Lij\Desktop\Programacion II\Gimnasio chicos\obj\Debug\net8.0\Gimnasio chicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abby Lij\Desktop\Programacion II\Gimnasio chicos\obj\Debug\net8.0\Gimnasio chicos.AssemblyInfoInputs.cache
+C:\Users\Abby Lij\Desktop\Programacion II\Gimnasio chicos\obj\Debug\net8.0\Gimnasio chicos.AssemblyInfo.cs
+C:\Users\Abby Lij\Desktop\Programacion II\Gimnasio chicos\obj\Debug\net8.0\Gimnasio chicos.csproj.CoreCompileInputs.cache
+C:\Users\Abby Lij\Desktop\Programacion II\Gimnasio chicos\obj\Debug\net8.0\Gimnasio chicos.dll
+C:\Users\Abby Lij\Desktop\Programacion II\Gimnasio chicos\obj\Debug\net8.0\refint\Gimnasio chicos.dll
+C:\Users\Abby Lij\Desktop\Programacion II\Gimnasio chicos\obj\Debug\net8.0\Gimnasio chicos.pdb
+C:\Users\Abby Lij\Desktop\Programacion II\Gimnasio chicos\obj\Debug\net8.0\Gimnasio chicos.genruntimeconfig.cache
+C:\Users\Abby Lij\Desktop\Programacion II\Gimnasio chicos\obj\Debug\net8.0\ref\Gimnasio chicos.dll
